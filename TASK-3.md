@@ -6,7 +6,7 @@
 
 В src/components уже лежат компоненты и известны ошибки (в list нет index.js, в footer нет footer.js).
 
-Напишите в build/lint-fs.js такую проверку, формат вывода:
+Напишите в build/lint-fs.mjs такую проверку, формат вывода:
 
 `Structure of component ${component} is broken! Missing ${fileName}`
 
