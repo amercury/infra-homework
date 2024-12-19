@@ -7,7 +7,8 @@
     "test:esm": "node --import ./build/register.mjs ./build/test/index.mjs",
     "test:yarn": "node test/project.js",
     "test:hook": "node test/hook.js",
-    "test:eslint": "node test/eslint.js"
+    "test:eslint": "node test/eslint.js",
+    "test:yaml": "node test/yaml.js"
   },
   "keywords": [],
   "author": "kholstinin.da@gmail.com",
